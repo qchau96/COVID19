@@ -4,7 +4,7 @@
 
 The first case of COVID-19 (Corona Virus) was discovered in Wuhan, China in December 2019. It then quickly spreaded across the Province Hubei, and around the world, and killing hundred thousands of people. What started as a common flu disease has turned the world upside down, making it one of the worst pandemics in the modern history.
 
-In this analysis, I'm going to take a deeper look at cases around the world, and how it has affected the Economy and Politics in the U.S.
+In this analysis, I'm going to take a deeper look at cases around the world, and how it has affected the Economy and Politics in the U.S. To see a full version with plots, please use [this link](https://nbviewer.jupyter.org/github/qchau96/COVID19/blob/master/COVID-19.ipynb).
 
 ## Table of Contents
 
